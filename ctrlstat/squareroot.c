@@ -6,12 +6,10 @@
 
 int main()
 {
-	long int num;
-	printf("ENTER THE NUMBER:\n");
-	scanf("%l",&num);
-
-
-
+int n;
+ printf("Enter a positive integer: ");
+    scanf("%d", &n);
+	 double sqrtNum = sqrt(n);
 
 
 
