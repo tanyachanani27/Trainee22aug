@@ -24,12 +24,8 @@ printf("\n");
 
 printf("using address:\n");
 for(i=0;i<MAX;i++)
-{
-  scanf("%d",*(a+1));
-}
-for(i=0;i<MAX;i++)
  {
-  printf("%d",*(a+1));
+  printf("%d\t",*(a+1));
 }
 return 0;
 }
