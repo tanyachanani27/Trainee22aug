@@ -1,8 +1,5 @@
 /* Write a program to find the maximum and minimum elements in an array of integers.*/
 
-
-/*Write a program to read and print array elements( using index and using address)*/
-
 #include<stdio.h>
 
 int main()
